@@ -5,3 +5,9 @@ Learning Tkinter by following a tutorial from [Real Python](https://realpython.c
 The tutorial has different exercises you do to learn the library. This repo has solutions to the problem with comments to assist those learning.
 
 Eventually I'll use Tkinter to add GUIs to some of my Python web apps.
+
+# Getting Started
+
+## Requirements
+* Python3
+* Tkinter (comes stock with Python3)
