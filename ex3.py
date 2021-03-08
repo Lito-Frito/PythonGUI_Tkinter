@@ -10,6 +10,7 @@ border_effects = {
 
 window = tk.Tk()
 
+#iterates through dict border_effects to shopw user what they look like
 for relief_name, relief in border_effects.items():
     frame = tk.Frame(master=window, relief=relief, borderwidth=5)
     frame.pack(side=tk.LEFT)
