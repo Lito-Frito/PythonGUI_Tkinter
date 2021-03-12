@@ -16,7 +16,7 @@ label3 = tk.Label(text="C")
 # Sets Label3 to stick to Northeastern border
 label3.grid(row=1, column=0, sticky="ne")
 
-label4 = tk.Label(text="C")
+label4 = tk.Label(text="D")
 # Sets Label4 to stick to Southwestern border
 label4.grid(row=1, column=0, sticky="sw")
 
