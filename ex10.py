@@ -2,7 +2,7 @@ import tkinter as tk
 
 window = tk.Tk()
 window.columnconfigure(0, minsize=250)
-window.rowconfigure([0, 3], minsize=100)
+window.rowconfigure([0, 4], minsize=100)
 
 label1 = tk.Label(text="A")
 # Sets Label1 to stick to Northern border
